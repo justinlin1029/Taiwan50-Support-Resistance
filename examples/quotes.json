@@ -1,0 +1,14 @@
+{
+  "signal_date": "2026-10-16",
+  "trade_date": "2026-10-19",
+  "is_next_trading_session": true,
+  "quotes": {
+    "2317": {
+      "open": 241,
+      "price": 242,
+      "corporate_action": false
+    }
+  },
+  "note": "僅示範格式，241/242不是已知的10月19日行情。open填整股開盤價，price填下單時可取得的零股賣價／擬用限價。",
+  "example_only": true
+}
