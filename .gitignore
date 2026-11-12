@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+.DS_Store
+account.json
+.account.lock
+config.json
+inventory_history/
+reports/
+data/*
+!data/universe.json
+my_*.json
+.daily*/
+*.zip
