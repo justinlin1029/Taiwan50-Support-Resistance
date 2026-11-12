@@ -1,0 +1,6 @@
+{
+  "example_only": true,
+  "fills": [
+    {"fill_id": "REPLACE_WITH_UNIQUE_BROKER_FILL_ID", "date": "2026-10-19", "symbol": "2317", "side": "BUY", "quantity": 100, "price": 242, "fee": 20, "tax": 0}
+  ]
+}
